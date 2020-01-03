@@ -38,7 +38,7 @@ public class Servlet2 extends HttpServlet {
     protected void doPut(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         int id=Integer.parseInt(req.getParameter("id"));
         String status=req.getParameter("status");
-
+        //System.out.println("testing");
         Task task=taskManager.searchById(id);
         if(task==null)
             resp.setStatus(404);
