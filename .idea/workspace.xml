@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="058fbf7f-bd88-4351-9f98-3b858126fade" name="Default Changelist" comment="" />
+    <list default="true" id="058fbf7f-bd88-4351-9f98-3b858126fade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/praveen/DataBaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praveen/DataBaseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/praveen/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praveen/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/praveen/TaskFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praveen/TaskFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/servlets/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/servlets/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/praveen/DataBaseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/praveen/DataBaseRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/praveen/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/praveen/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/praveen/TaskFileRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/praveen/TaskFileRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/servlets/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/servlets/Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tasks-webapp.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/classes/com/servlets/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/classes/com/servlets/Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tasks-webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +45,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Vgz8zv6nXf7dR1SFmpyVpCqQUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,10 +53,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -93,26 +119,30 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="436" y="283" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741@0.27.1366.741" timestamp="1577708960048" />
-    <state width="1320" height="366" key="GridCell.Tab.0.bottom" timestamp="1577711390652">
+    <state width="1320" height="366" key="GridCell.Tab.0.bottom" timestamp="1577950567744">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="366" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577711390652" />
-    <state width="1320" height="366" key="GridCell.Tab.0.center" timestamp="1577711390652">
+    <state width="1320" height="366" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577950567744" />
+    <state width="1320" height="366" key="GridCell.Tab.0.center" timestamp="1577950567742">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="366" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577711390652" />
-    <state width="1320" height="366" key="GridCell.Tab.0.left" timestamp="1577711390652">
+    <state width="1320" height="366" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577950567742" />
+    <state width="1320" height="366" key="GridCell.Tab.0.left" timestamp="1577950567742">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="366" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577711390652" />
-    <state width="1320" height="366" key="GridCell.Tab.0.right" timestamp="1577711390652">
+    <state width="1320" height="366" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577950567742" />
+    <state width="1320" height="366" key="GridCell.Tab.0.right" timestamp="1577950567743">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="366" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577711390652" />
-    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1577692264475">
+    <state width="1320" height="366" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577950567743" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1577958545779">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577692264475" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577958545779" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578030998316">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578030998316" />
     <state x="340" y="27" width="676" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577705231833">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

@@ -66,6 +66,7 @@ public class TaskFileRepository implements TaskRepository {
 
     @Override
     public List<Task> getList() {
+
         return readFromFile();
     }
 

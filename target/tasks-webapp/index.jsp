@@ -1,5 +1,33 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+
+<form action="tasks" method="post">
+Task Name:  <input type="text" name="name"/> <br/>
+Description:  <input type="text" name="desc"/> <br/>
+Date:  <input type="text" name="date"/> <br/>
+Status:  <input type="text" name="status"/> <br/>
+<button type="submit" value="Submit">Add New Task</button>
+</form>
+
+<form action="tasks" method="get">
+<button type="submit" value="Submit">Display Tasks</button>
+</form>
+
+<form action="tasks/id" method="get">
+ID:  <input type="text" name="id"/> <br/>
+<button type="submit" value="Submit">Display Task By ID</button>
+</form>
+
+<form action="Modify" method="put">
+ID:  <input type="text" name="id"/> <br/>
+Status:  <input type="text" name="status"/> <br/>
+<button type="submit" value="Submit">Update Status</button>
+</form>
+
+<form action="Modify" method="DELETE">
+ID:  <input type="text" name="id"/> <br/>
+<button type="submit" value="Submit">Delete Task</button>
+</form>
+
 </body>
 </html>

@@ -18,4 +18,16 @@
     <url-pattern>/tasks</url-pattern>
   </servlet-mapping>
 
+  <servlet>
+    <description></description>
+    <display-name>Task Manager</display-name>
+    <servlet-name>Servlet2</servlet-name>
+    <servlet-class>com.servlets.Servlet2</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Servlet2</servlet-name>
+    <url-pattern>/tasks/id</url-pattern>
+  </servlet-mapping>
+
 </web-app>

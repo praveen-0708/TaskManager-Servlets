@@ -71,7 +71,15 @@ public class Task implements Comparable<Task> {
     @Override
     public int compareTo(Task task) {
         if(this.getDate().compareTo(task.getDate())==0)
-            return 0;
+        {
+            if(this.getStatus().equals(TaskStatus.valueOf("IN_PROGRESS")))
+                return -1;
+            else if(this.getStatus().equals(TaskStatus.valueOf("CREATED")))
+                return 1;
+            else
+                return 0;
+        }
+
         else if(this.getDate().compareTo(task.getDate())<0)
             return -1;
         else
