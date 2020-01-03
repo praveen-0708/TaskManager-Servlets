@@ -13,21 +13,7 @@ Status:  <input type="text" name="status"/> <br/>
 <button type="submit" value="Submit">Display Tasks</button>
 </form>
 
-<form action="tasks/id" method="get">
-ID:  <input type="text" name="id"/> <br/>
-<button type="submit" value="Submit">Display Task By ID</button>
-</form>
 
-<form action="Modify" method="put">
-ID:  <input type="text" name="id"/> <br/>
-Status:  <input type="text" name="status"/> <br/>
-<button type="submit" value="Submit">Update Status</button>
-</form>
-
-<form action="Modify" method="DELETE">
-ID:  <input type="text" name="id"/> <br/>
-<button type="submit" value="Submit">Delete Task</button>
-</form>
 
 </body>
 </html>

@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058fbf7f-bd88-4351-9f98-3b858126fade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/praveen/DataBaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praveen/DataBaseRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/praveen/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praveen/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/praveen/TaskFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/praveen/TaskFileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/servlets/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/servlets/Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/praveen/DataBaseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/praveen/DataBaseRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/praveen/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/praveen/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/praveen/TaskFileRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/praveen/TaskFileRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/servlets/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/servlets/Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tasks-webapp.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/classes/com/servlets/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/classes/com/servlets/Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tasks-webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/tasks-webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
