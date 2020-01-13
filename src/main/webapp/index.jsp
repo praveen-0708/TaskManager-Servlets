@@ -10,7 +10,7 @@ Status:  <input type="text" name="status"/> <br/>
 </form>
 
 <form action="tasks" method="get">
-<button type="submit" value="Submit">Display</button>
+<button type="submit" value="Submit">Display tasks</button>
 </form>
 
 
